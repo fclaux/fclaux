@@ -26,14 +26,14 @@ Hey there! I'm Florian Claux, a passionate developer who loves coding, learning 
 
 - [LinkedIn](https://www.linkedin.com/in/florian-claux-605537294/)
 - [Twitter](https://twitter.com/florianclaux)
-- [Personal Website](https://youtube.com)
+- [Personal Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 🤝 Contributions & Open Source
 
 I'm always open to collaboration! Check out some of my featured repositories:
 
-- [Project Name](https://github.com/your-username/project-name): Brief description of the project.
-- [Another Project](https://github.com/your-username/another-project): Brief description of another project.
+- [Project Name](https://github.com/fclaux/project-name): Brief description of the project.
+- [Another Project](https://github.com/fclaux/honeybeeBUT1): Brief description of another project.
 
 Feel free to open issues, submit pull requests, or just give a star if you find something interesting!
 
