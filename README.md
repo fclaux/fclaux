@@ -19,7 +19,6 @@ Hey there! I'm Florian Claux, a passionate developer who loves coding, learning 
 ## 🌱 Currently Learning
 
 - **React:** Building dynamic user interfaces.
-- **Java:** Creating scrabble application
 - **Machine Learning:** Exploring data science and AI.
 
 ## 📫 Let's Connect!
