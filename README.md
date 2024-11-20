@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hey there! I'm Florian Claux, a passionate developer who loves coding, learning new technologies, and contributing to the open-source community. Explore my repositories and feel free to collaborate!
+Hey there! I'm Florian Claux, a passionate developer who loves coding and learning new technologies. Explore my repositories and feel free to collaborate!
 
 ## 🔧 Technologies & Tools
 
