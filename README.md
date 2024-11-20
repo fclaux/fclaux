@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hey there! I'm Florian Claux, a passionate developer who loves coding and learning new technologies. Explore my repositories and feel free to collaborate!
+Hey there! I'm Florian Claux, a passionate developer learning and growing in the world of technology. I enjoy exploring new frameworks and working on creative projects. Take a look at my repositories and feel free to share your thoughts! 😊
 
 ## 🔧 Technologies & Tools
 
@@ -27,8 +27,8 @@ Hey there! I'm Florian Claux, a passionate developer who loves coding and learni
 
 ## 🌱 Currently Learning
 
-- **React:** Building dynamic user interfaces.
-- **Machine Learning:** Exploring data science and AI.
+- **React & React Native:** To build dynamic and responsive user interfaces.
+- **Mobile App Development (React Native):** Working on Free-Go, a family planner app designed to centralize family management tasks.
 
 ## 📫 Let's Connect!
 
@@ -42,6 +42,10 @@ I'm always open to collaboration! Check out some of my featured repositories:
 
 - [Project Name](https://github.com/fclaux/project-name): Brief description of the project.
 - [Another Project](https://github.com/fclaux/honeybeeBUT1): Brief description of another project.
+
+- Console Game: A simple text-based game developed during my first year of studies.
+- Scrabble in Java: A Java implementation of Scrabble as a second-year project.
+- [Free-Go]: A planning app for families with features like shared to-do lists, calendars, and more.
 
 Feel free to open issues, submit pull requests, or just give a star if you find something interesting!
 
