@@ -39,7 +39,7 @@ Hey there! I'm Florian Claux, a passionate developer learning and growing in the
 
 I'm always open to collaboration! Check out some of my featured repositories:
 
-- [Console Game](https://github.com/fclaux/project-name): A simple text-based game developed during my first year of studies.
+- [Console Game](https://github.com/fclaux/console-game-python): A simple text-based game developed during my first year of studies.
 - [Scrabble in Java/JavaFX](https://github.com/fclaux/scrabble): A Java implementation of Scrabble as a second-year project.
 - [Barber Shop Website](https://github.com/fclaux/Test-Site-Github): A responsive showcase website for a barber shop, built using only HTML, CSS and JS [(Click to view the site)](https://fclaux.github.io/Test-Site-Github/).
 - [Free-Go (Private until April 2025)](https://github.com/Hashual/planificateur_familial): A planning app for families with features like shared to-do lists, calendars, and more.
